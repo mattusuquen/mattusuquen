@@ -21,6 +21,8 @@ I am a Fullstack Software Engineer, currently working at Amazon Web Services sin
 
 ## 3x AWS certified
 
-- Machine Learning Specialty
-- Solutions Architect Associate
-- Certified Cloud Practitioner
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Machine%20Learning%20Specialty-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Machine Learning Specialty" />
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Solutions Architect Associate" />
+  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Cloud Practitioner" />
+</p>
