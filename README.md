@@ -1,6 +1,4 @@
-<a href="https://www.linkedin.com/in/matthew-usuquen"><img align="right" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-
-## Hi, I'm Matthew Usuquen
+<h2>Hi, I'm Matthew Usuquen <a href="https://www.linkedin.com/in/matthew-usuquen"><img align="right" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></h2>
 
 I am a Fullstack Software Engineer, currently working at Amazon Web Services since 2024, building production apps in TypeScript, React, Node.js, and PostgreSQL, with hands-on LLM API (Anthropic, OpenAI, LangGraph, LangChain) integration. Shipped four full-stack apps across edtech, dev tooling, and AI personalization. 
 
